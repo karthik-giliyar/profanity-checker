@@ -3,7 +3,7 @@ from better_profanity import profanity
 
 count=0
 
-files  = open("racial-words.TXT","r")
+files  = open("racial-slurs.TXT","r")
 lines=files.read().split("\n")
 
 k=1
